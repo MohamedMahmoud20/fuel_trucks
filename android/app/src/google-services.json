@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "158558334698",
+    "project_id": "ftma-58d88",
+    "storage_bucket": "ftma-58d88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158558334698:android:ea2f7f6bd107ed10caf193",
+        "android_client_info": {
+          "package_name": "com.example.fuel_trucks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158558334698-7il1fibeghmloiulahd8ec7u27cejjbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fuel_trucks",
+            "certificate_hash": "4b6de114ff15096fa4c71faffdf246a2369e8116"
+          }
+        },
+        {
+          "client_id": "158558334698-mc19au650prp0j9gq7gv9jgtujul2uqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxWRn4FzVmamMEM5Be7Op4pMeG-XMc__c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158558334698-mc19au650prp0j9gq7gv9jgtujul2uqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
